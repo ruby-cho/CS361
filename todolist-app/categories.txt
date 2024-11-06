@@ -1,0 +1,5 @@
+{
+    "Daily": ["Run", "Walk", "Visit", "Go"],
+    "Shopping": ["Buy", "WF", "Get"],
+    "School": ["CS361", "CS325", "assignment"]
+}
